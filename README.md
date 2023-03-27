@@ -1,6 +1,4 @@
-# Markdown syntax guide
-
-## Ruby Version
+## RoR Version
 * Ruby version 3.1.0
 * Rails version 7.0.4.3
 
